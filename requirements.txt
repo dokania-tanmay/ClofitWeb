@@ -1,2 +1,8 @@
-fastbook
 voila
+numpy
+time
+ipywidgets
+io
+cv2
+matplotlib.pyplot
+pillow
