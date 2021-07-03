@@ -1,7 +1,6 @@
 voila
 numpy
 ipywidgets
-io
 cv2
-matplotlib.pyplot
+matplotlib
 pillow
